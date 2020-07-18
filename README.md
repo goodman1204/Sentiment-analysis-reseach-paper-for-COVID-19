@@ -1,4 +1,4 @@
-# Sentiment analysis research  paper for COVID-19
+# Sentiment analysis research  paper  list for COVID-19
 
 This repository is a collection of the latest sentiment analysis  related research work for the COVID-19 pandemic.  Hope that the collection of research work can provide insight to  authorities or governments to consider the potential mental health issues of people when making different decisions, like lock down, social distancing, quarantine, etc. 
 
