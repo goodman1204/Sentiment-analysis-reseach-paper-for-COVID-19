@@ -17,3 +17,4 @@ This repository is a collection of the latest sentiment analysis  related resear
 - News Sentiment in the Time of COVID-19, S. R. Buckman et al.  [[pdf]](http://www.frbsf.org/economic-research/files/el2020-08.pdf)
 - In the Eyes of the Beholder: Sentiment and Topic Analyses on Social Media Use of Neutral and Controversial Terms for COVID-19 [[pdf]](https://arxiv.org/pdf/2004.10225.pdf)
 - Deep Sentiment Classification and Topic Discovery on Novel Coronavirus or COVID-19 Online Discussions: NLP Using LSTM Recurrent Neural Network Approach, H. Jelodar et al. [[pdf]](https://arxiv.org/pdf/2004.11695.pdf).
+- COVID-19 pandemic: a sentiment analysis, A. Kumar et al. [[link]](https://academic.oup.com/eurheartj/article/doi/10.1093/eurheartj/ehaa597/5873149)
